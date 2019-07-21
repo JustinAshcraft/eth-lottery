@@ -23,3 +23,4 @@ describe('Lottery Contract', () => {
     assert.ok(lottery.options.address);
   });
 });
+
